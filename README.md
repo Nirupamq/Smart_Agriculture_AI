@@ -57,6 +57,9 @@ Visualizes agricultural data and model insights.
 Simple interface for entering agricultural parameters and viewing recommendations.
 
 ---
+## 🎥 Project Demo
+
+👉 [Watch Demo Video on Loom](https://www.loom.com/share/6e57180502834d1ea8ba65c84673c921)
 
 ## Technology Stack
 
