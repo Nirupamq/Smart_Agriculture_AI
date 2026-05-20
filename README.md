@@ -126,7 +126,7 @@ User Dashboard
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/smart-agriculture-ai.git
+git clone https://github.com/Nirupamq/smart-agriculture-ai.git
 cd smart-agriculture-ai
 ```
 
